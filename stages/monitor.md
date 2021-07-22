@@ -6,12 +6,11 @@
 ### __Stage description:__  
 Insert your description of the stage here  
 
-| Pipeline Stage:<br>Monitor      |Client  |Product Owner|Developer| Tester  | UX      |Business Analyst|
-|----------------------------- |-------- |--------    |-------- |-------- |---------|----------------|
-| Define Project Scope         |    I    |            |   C     |         |         |        R       |
-| Conduct Stakeholder interview|         |      C     |         |   I     |         |        R       |
-| Scope finalised              |    S    |            |         |         |         |        R       |
-| Gather requirement           |         |            |         |         |         |        R       |
+| Pipeline Stage:<br>Monitor   |Client  |Product Manager|Developer| Tester| UX      |Business Analyst |
+|----------------------------- |-------- |--------     |-------- |-------- |---------|----------------|
+| Collect Data                 |    I    |      A      |         |         |         |       C        |
+| Check Performance            |    I    |      A      |   R     |         |         |       C        |
+| Check Error                  |    S    |      A      |         |         |         |       C        |
   
   
 [Home](../index.md)  

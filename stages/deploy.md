@@ -6,12 +6,12 @@
 ### __Stage description:__  
 Insert your description of the stage here  
 
-| Pipeline Stage:<br>Deploy  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
-|----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
+| Pipeline Stage:<br>Deploy    | Client  | Tester  |Developer|Tech Lead|         
+|----------------------------- |-------- |-------- |-------- |-------- |
+| Refine deploy plan           |    I    |     S   |         |         |         
+| Finalise Deploy Plan         |    I    |         |         |         |        
+| Release system to user       |    I    |     S   |     R   |    S    |         
+| Post Live review             |    I    |         |     I   |   S     |         
   
   
 [Home](../index.md)  
