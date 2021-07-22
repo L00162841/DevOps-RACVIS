@@ -6,12 +6,12 @@
 ### __Stage description:__  
 Insert your description of the stage here  
 
-| Pipeline Stage:<br>Test  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
-|----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
+| Pipeline Stage:<br>Test  | Developer  | Client  | Tech Lead | Tester            |
+|--------------------------|----------- |-------- |---------- |-------------------|
+| Deploy to staging        |      S     |         |    I      |        R          |
+| out of band testing      |            |         |    I      |        R          |
+| Manual testing           |            |         |           |        R          |
+| UAT testing              |            |     I   |           |        R          |
   
   
 [Home](../index.md)  

@@ -6,12 +6,12 @@
 ### __Stage description:__  
 Insert your description of the stage here  
 
-| Pipeline Stage:<br>Build  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
-|----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
+| Pipeline Stage:<br>Build  | Front-end Dev  | Database Dev  | Tester  | Technical Lead |
+|---------------------------|-------- -------|-------------- |-------- |----------------|
+| Submit Pull Request       |         S      |               |         |        I       |
+| Merge New Code            |                |      R        |         |        S       |
+| Review Code Change        |                |               |     A   |                |
+| Aprove Pull request       |                |               |         |        R       |
   
   
 [Home](../index.md)  

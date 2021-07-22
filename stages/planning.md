@@ -8,10 +8,10 @@ Insert your description of the stage here
 
 | Pipeline Stage:<br>Plan  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
 |----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
+| Define Project Scope         |         |         |         |         |         |
+| Conduct Stakeholder interview|         |         |         |         |         |
+| Scope finalised              |         |         |         |         |         |
+| Gather requirement           |         |         |         |         |         |
   
   
 [Home](../index.md)  
