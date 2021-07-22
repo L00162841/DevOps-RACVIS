@@ -6,12 +6,12 @@
 ### __Stage description:__  
 Insert your description of the stage here  
 
-| Pipeline Stage:<br>Monitor  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
-|----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
+| Pipeline Stage:<br>Monitor      |Client  |Product Owner|Developer| Tester  | UX      |Business Analyst|
+|----------------------------- |-------- |--------    |-------- |-------- |---------|----------------|
+| Define Project Scope         |    I    |            |   C     |         |         |        R       |
+| Conduct Stakeholder interview|         |      C     |         |   I     |         |        R       |
+| Scope finalised              |    S    |            |         |         |         |        R       |
+| Gather requirement           |         |            |         |         |         |        R       |
   
   
 [Home](../index.md)  
