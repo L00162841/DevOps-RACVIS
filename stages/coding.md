@@ -9,8 +9,8 @@ Insert your description of the stage here
 | Pipeline Stage:<br>Code      |Client  |Product Owner|Developer| Tester  | UX      |Business Analyst|
 |----------------------------- |-------- |--------    |-------- |-------- |---------|----------------|
 | Start Build                  |    I    |      C     |   R     |   A     |         |                |
-| Build Front End              |    I    |            |   R     |         |    S    |                |
-| Build Back end               |    S    |            |   R     |         |         |                |
+| Build Front End              |    I    |            |   S     |         |    S    |                |
+| Build Back end               |    S    |            |   S     |         |         |                |
 | Build API                    |         |            |   R     |         |         |                |
   
   

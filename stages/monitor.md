@@ -9,7 +9,7 @@ Insert your description of the stage here
 | Pipeline Stage:<br>Monitor   |Client  |Product Manager|Developer| Tester| UX      |Business Analyst |
 |----------------------------- |-------- |--------     |-------- |-------- |---------|----------------|
 | Collect Data                 |    I    |      A      |         |         |         |       C        |
-| Check Performance            |    I    |      A      |   R     |         |         |       C        |
+| Check Performance            |    I    |      S      |   R     |         |         |       C        |
 | Check Error                  |    S    |      A      |         |         |         |       C        |
   
   

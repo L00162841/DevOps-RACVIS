@@ -8,10 +8,10 @@ Insert your description of the stage here
 
 | Pipeline Stage:<br>Test  | Developer  | Client  | Tech Lead | Tester            |
 |--------------------------|----------- |-------- |---------- |-------------------|
-| Deploy to staging        |      S     |         |    I      |        R          |
+| Deploy to staging        |      S     |         |    I      |        S          |
 | out of band testing      |            |         |    I      |        R          |
 | Manual testing           |            |         |           |        R          |
-| UAT testing              |            |     I   |           |        R          |
+| UAT testing              |            |     I   |           |        S          |
   
   
 [Home](../index.md)  

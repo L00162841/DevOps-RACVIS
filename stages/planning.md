@@ -9,9 +9,9 @@ Insert your description of the stage here
 | Pipeline Stage:<br>Plan      |Client  |Product Owner|Developer| Tester  | UX      |Business Analyst|
 |----------------------------- |-------- |--------    |-------- |-------- |---------|----------------|
 | Define Project Scope         |    I    |            |   C     |         |         |        R       |
-| Conduct Stakeholder interview|         |      C     |         |   I     |         |        R       |
+| Conduct Stakeholder interview|         |      C     |         |   I     |         |        S       |
 | Scope finalised              |    S    |            |         |         |         |        R       |
-| Gather requirement           |         |            |         |         |         |        R       |
+| Gather requirement           |         |            |         |         |         |        S       |
   
   
 [Home](../index.md)  

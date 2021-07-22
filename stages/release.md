@@ -9,9 +9,9 @@ Insert your description of the stage here
 | Pipeline Stage:<br>Release  | Developer  | Client  | Tech Lead | Tester            |
 |-----------------------------|----------- |-------- |---------- |-------------------|
 | Deploy to staging           |      S     |         |    I      |        R          |
-| out of band testing         |            |         |    I      |        R          |
+| out of band testing         |            |         |    I      |        S          |
 | Manual testing              |            |         |           |        R          |
-| UAT testing                 |            |     I   |           |        R          |
+| UAT testing                 |            |     I   |           |        S          |
   
   
 [Home](../index.md)  
